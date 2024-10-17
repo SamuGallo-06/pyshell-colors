@@ -23,22 +23,17 @@ you can make the text bold, italic or underlined with the corresponding method
     print(italic("This is italic"))
 
 Output:
-
+'''
 **This is bold**
 
 _This is Italic_
+'''
 
 
 or you can make a text colored
 
     print(cyan("Hello World!"))
     print(red("Hello World!"))
-
-Output:
-
-<span style="color:lightblue">Hello World!</span>.
-
-<span style="color:red">Hello World!</span>.
 
 ### Available methods
 
