@@ -23,11 +23,9 @@ you can make the text bold, italic or underlined with the corresponding method
     print(italic("This is italic"))
 
 Output:
-'''
 **This is bold**
 
 _This is Italic_
-'''
 
 
 or you can make a text colored
